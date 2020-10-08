@@ -1,0 +1,53 @@
+@media (max-width: 500px) {
+textarea {
+  height: 100px;
+  line-height:1.25;
+}
+button {
+	background-color: #092BFE;
+	cursor:pointer;
+	color:#00ff00;
+	font-family:helvetica;
+	font-size:50px;
+	padding:50px 60px;
+	text-decoration:none;
+}
+}
+
+.button0 {
+  font-size:20px;
+  padding:50px 60px;
+}
+  textarea {
+    background-color: #000000;
+    border: 1px solid #000000;
+    color: #FFFFFF;
+    padding: 8px;
+    font-family: courier new;
+}
+
+body {
+  background: url("https://cdn.discordapp.com/attachments/737998831957966879/763638163138412574/bg_5_1.jpg");
+	background-size: cover;
+	background-position: center
+  
+}
+"
+input {
+    background-color: #000;
+    color: #00ff00;
+}
+
+button {
+	background-color:#000000;
+	cursor:pointer;
+	color:#00ff00;
+	font-family:helvetica;
+	font-size:17px;
+	padding:7px 8px;
+	text-decoration:none;
+}
+button:active {
+	position:relative;
+	top:1px;
+}
